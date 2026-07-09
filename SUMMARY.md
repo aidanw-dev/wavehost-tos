@@ -22,6 +22,7 @@
 
 ## Policies
 
+* [Policy List](policies/policy-list.md)
 * [Terms of Service](policies/terms-of-service.md)
 * [Privacy Policy](policies/privacy-policy.md)
 * [Refund Policy](policies/refund-policy.md)
