@@ -17,11 +17,8 @@
 * [Proxying](information/proxying.md)
 * [WordPress with Web Hosting](information/wordpress-with-web-hosting.md)
 * [Affiliate System: Earn Credits Easily!](information/affiliate-system-earn-credits-easily.md)
-
-***
-
-* [Connecting VM to the Internet.](connecting-vm-to-the-internet..md)
-* [Appeals](appeals.md)
+* [Appeals](information/appeals.md)
+* [Connecting VM to the Internet.](information/connecting-vm-to-the-internet..md)
 
 ## Policies
 
